@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SaladaDeFruta
+namespace LearningProject
 {
     class SaladaDeFruta
     {
