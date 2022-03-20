@@ -20,7 +20,6 @@ namespace SaladaDeFruta
             for (int i = 0; i < fruta.Length; i++)
             {
                 Console.WriteLine("A fruta " + (i+1) + " é "+ fruta[i]);
-
             }
 
             Console.ReadKey();
